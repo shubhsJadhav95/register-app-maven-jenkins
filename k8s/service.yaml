@@ -9,7 +9,7 @@ spec:
     app: register-app
 
   ports:
-    - port: 3000
-      targetPort: 3000
+    - port: 3050
+      targetPort: 3050
 
   type: LoadBalancer
